@@ -1,0 +1,5 @@
+- create an interactive website for people to simulate playing against agents
+- take advantage and have option to play against/see progress of agent after x amount of training generations or time
+- poker interaction, Counterfactual regret minimization may be too much
+- incorporate openai gym to the website?
+    - what will we offer that is specific to our solution
